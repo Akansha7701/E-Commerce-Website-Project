@@ -2,6 +2,9 @@
 This is a responsive **E-Commerce Website** developed as an **individual academic project** using **HTML, CSS, and JavaScript**.  
 The project demonstrates front-end development skills, UI/UX design principles, and basic cart functionality using browser localStorage.
 
+## Live Demo
+ https://akansha7701.github.io/E-Commerce-Website-Project/
+
 ## Features
 
 - Responsive navigation bar (mobile & desktop)
